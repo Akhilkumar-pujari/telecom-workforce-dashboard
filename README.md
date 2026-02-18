@@ -24,3 +24,6 @@ Global telecom employment dataset containing country-level workforce statistics 
 ## Author
 Akhil Kumar Pujari  
 Master’s in Business Analytics
+
+## How to Use
+Download the Excel file to interact with the dashboard and explore workforce trends using pivot tables and charts.
